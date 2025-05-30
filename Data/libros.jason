@@ -1,0 +1,16 @@
+[
+  {
+    "ISBN": "123456",
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "ejemplares": 5,
+    "genero": "Fábula"
+  },
+  {
+    "ISBN": "789012",
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "ejemplares": 3,
+    "genero": "Realismo mágico"
+  }
+]
