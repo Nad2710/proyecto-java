@@ -1,0 +1,1052 @@
+[
+  {
+    "ISBN": "9785486534332",
+    "titulo": "Libro de Programaci\u00f3n #1",
+    "autor": "Autor C",
+    "ejemplares": 14,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9783092150363",
+    "titulo": "Libro de Programaci\u00f3n #2",
+    "autor": "Autor A",
+    "ejemplares": 7,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9786097960485",
+    "titulo": "Libro de Programaci\u00f3n #3",
+    "autor": "Autor C",
+    "ejemplares": 9,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9789861923908",
+    "titulo": "Libro de Programaci\u00f3n #4",
+    "autor": "Autor B",
+    "ejemplares": 5,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9789563175504",
+    "titulo": "Libro de Programaci\u00f3n #5",
+    "autor": "Autor C",
+    "ejemplares": 7,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9781018804360",
+    "titulo": "Libro de Programaci\u00f3n #6",
+    "autor": "Autor B",
+    "ejemplares": 11,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9781712823960",
+    "titulo": "Libro de Programaci\u00f3n #7",
+    "autor": "Autor B",
+    "ejemplares": 5,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9789260302601",
+    "titulo": "Libro de Programaci\u00f3n #8",
+    "autor": "Autor A",
+    "ejemplares": 14,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9784662116108",
+    "titulo": "Libro de Programaci\u00f3n #9",
+    "autor": "Autor A",
+    "ejemplares": 2,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9782869226352",
+    "titulo": "Libro de Programaci\u00f3n #10",
+    "autor": "Autor C",
+    "ejemplares": 14,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9783143286259",
+    "titulo": "Libro de Programaci\u00f3n #11",
+    "autor": "Autor C",
+    "ejemplares": 11,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9788055829430",
+    "titulo": "Libro de Programaci\u00f3n #12",
+    "autor": "Autor B",
+    "ejemplares": 2,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9789010672577",
+    "titulo": "Libro de Programaci\u00f3n #13",
+    "autor": "Autor C",
+    "ejemplares": 2,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9785210402492",
+    "titulo": "Libro de Programaci\u00f3n #14",
+    "autor": "Autor B",
+    "ejemplares": 5,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9782682009344",
+    "titulo": "Libro de Programaci\u00f3n #15",
+    "autor": "Autor A",
+    "ejemplares": 11,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9782512606923",
+    "titulo": "Libro de Programaci\u00f3n #16",
+    "autor": "Autor B",
+    "ejemplares": 3,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9785502262436",
+    "titulo": "Libro de Programaci\u00f3n #17",
+    "autor": "Autor C",
+    "ejemplares": 15,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9789683673467",
+    "titulo": "Libro de Programaci\u00f3n #18",
+    "autor": "Autor A",
+    "ejemplares": 14,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9786205204523",
+    "titulo": "Libro de Programaci\u00f3n #19",
+    "autor": "Autor A",
+    "ejemplares": 3,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9784518410091",
+    "titulo": "Libro de Programaci\u00f3n #20",
+    "autor": "Autor C",
+    "ejemplares": 3,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9782003256406",
+    "titulo": "Libro de Programaci\u00f3n #21",
+    "autor": "Autor A",
+    "ejemplares": 3,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9786263006874",
+    "titulo": "Libro de Programaci\u00f3n #22",
+    "autor": "Autor A",
+    "ejemplares": 5,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9789897025030",
+    "titulo": "Libro de Programaci\u00f3n #23",
+    "autor": "Autor A",
+    "ejemplares": 10,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9783493555172",
+    "titulo": "Libro de Programaci\u00f3n #24",
+    "autor": "Autor B",
+    "ejemplares": 15,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9783163494696",
+    "titulo": "Libro de Programaci\u00f3n #25",
+    "autor": "Autor C",
+    "ejemplares": 3,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9781373932103",
+    "titulo": "Libro de Programaci\u00f3n #26",
+    "autor": "Autor A",
+    "ejemplares": 10,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9781189940891",
+    "titulo": "Libro de Programaci\u00f3n #27",
+    "autor": "Autor B",
+    "ejemplares": 2,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9788925258207",
+    "titulo": "Libro de Programaci\u00f3n #28",
+    "autor": "Autor A",
+    "ejemplares": 3,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9786063734310",
+    "titulo": "Libro de Programaci\u00f3n #29",
+    "autor": "Autor B",
+    "ejemplares": 15,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9789007402643",
+    "titulo": "Libro de Programaci\u00f3n #30",
+    "autor": "Autor A",
+    "ejemplares": 12,
+    "genero": "Programaci\u00f3n"
+  },
+  {
+    "ISBN": "9789299511507",
+    "titulo": "Libro de Matem\u00e1ticas #1",
+    "autor": "Autor A",
+    "ejemplares": 2,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9788704137443",
+    "titulo": "Libro de Matem\u00e1ticas #2",
+    "autor": "Autor A",
+    "ejemplares": 13,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9789201449680",
+    "titulo": "Libro de Matem\u00e1ticas #3",
+    "autor": "Autor C",
+    "ejemplares": 12,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9781214274118",
+    "titulo": "Libro de Matem\u00e1ticas #4",
+    "autor": "Autor C",
+    "ejemplares": 5,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9781839392630",
+    "titulo": "Libro de Matem\u00e1ticas #5",
+    "autor": "Autor B",
+    "ejemplares": 11,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9785240157220",
+    "titulo": "Libro de Matem\u00e1ticas #6",
+    "autor": "Autor C",
+    "ejemplares": 2,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9788492205852",
+    "titulo": "Libro de Matem\u00e1ticas #7",
+    "autor": "Autor B",
+    "ejemplares": 8,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9782483630211",
+    "titulo": "Libro de Matem\u00e1ticas #8",
+    "autor": "Autor C",
+    "ejemplares": 9,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9781473646529",
+    "titulo": "Libro de Matem\u00e1ticas #9",
+    "autor": "Autor A",
+    "ejemplares": 4,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9781381625886",
+    "titulo": "Libro de Matem\u00e1ticas #10",
+    "autor": "Autor C",
+    "ejemplares": 2,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9788261753395",
+    "titulo": "Libro de Matem\u00e1ticas #11",
+    "autor": "Autor C",
+    "ejemplares": 10,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9785408499129",
+    "titulo": "Libro de Matem\u00e1ticas #12",
+    "autor": "Autor B",
+    "ejemplares": 6,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9789979578731",
+    "titulo": "Libro de Matem\u00e1ticas #13",
+    "autor": "Autor A",
+    "ejemplares": 3,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9783029091323",
+    "titulo": "Libro de Matem\u00e1ticas #14",
+    "autor": "Autor A",
+    "ejemplares": 3,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9785832838305",
+    "titulo": "Libro de Matem\u00e1ticas #15",
+    "autor": "Autor B",
+    "ejemplares": 8,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9782294042976",
+    "titulo": "Libro de Matem\u00e1ticas #16",
+    "autor": "Autor A",
+    "ejemplares": 10,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9785411593700",
+    "titulo": "Libro de Matem\u00e1ticas #17",
+    "autor": "Autor A",
+    "ejemplares": 8,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9789921810979",
+    "titulo": "Libro de Matem\u00e1ticas #18",
+    "autor": "Autor A",
+    "ejemplares": 14,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9781903063911",
+    "titulo": "Libro de Matem\u00e1ticas #19",
+    "autor": "Autor A",
+    "ejemplares": 3,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9788011838764",
+    "titulo": "Libro de Matem\u00e1ticas #20",
+    "autor": "Autor A",
+    "ejemplares": 1,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9784912412922",
+    "titulo": "Libro de Matem\u00e1ticas #21",
+    "autor": "Autor B",
+    "ejemplares": 7,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9785950210561",
+    "titulo": "Libro de Matem\u00e1ticas #22",
+    "autor": "Autor C",
+    "ejemplares": 8,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9783213390771",
+    "titulo": "Libro de Matem\u00e1ticas #23",
+    "autor": "Autor C",
+    "ejemplares": 6,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9787624756963",
+    "titulo": "Libro de Matem\u00e1ticas #24",
+    "autor": "Autor A",
+    "ejemplares": 9,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9786316410824",
+    "titulo": "Libro de Matem\u00e1ticas #25",
+    "autor": "Autor B",
+    "ejemplares": 4,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9783408296633",
+    "titulo": "Libro de Matem\u00e1ticas #26",
+    "autor": "Autor C",
+    "ejemplares": 7,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9788094076291",
+    "titulo": "Libro de Matem\u00e1ticas #27",
+    "autor": "Autor C",
+    "ejemplares": 5,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9788718688010",
+    "titulo": "Libro de Matem\u00e1ticas #28",
+    "autor": "Autor B",
+    "ejemplares": 12,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9781723111759",
+    "titulo": "Libro de Matem\u00e1ticas #29",
+    "autor": "Autor C",
+    "ejemplares": 14,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9789401843242",
+    "titulo": "Libro de Matem\u00e1ticas #30",
+    "autor": "Autor B",
+    "ejemplares": 14,
+    "genero": "Matem\u00e1ticas"
+  },
+  {
+    "ISBN": "9784648060199",
+    "titulo": "Libro de F\u00edsica #1",
+    "autor": "Autor C",
+    "ejemplares": 11,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9787225184582",
+    "titulo": "Libro de F\u00edsica #2",
+    "autor": "Autor C",
+    "ejemplares": 8,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9786345885688",
+    "titulo": "Libro de F\u00edsica #3",
+    "autor": "Autor B",
+    "ejemplares": 3,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9783690186600",
+    "titulo": "Libro de F\u00edsica #4",
+    "autor": "Autor C",
+    "ejemplares": 15,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9782055084496",
+    "titulo": "Libro de F\u00edsica #5",
+    "autor": "Autor A",
+    "ejemplares": 15,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9788868490222",
+    "titulo": "Libro de F\u00edsica #6",
+    "autor": "Autor C",
+    "ejemplares": 12,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9786013452222",
+    "titulo": "Libro de F\u00edsica #7",
+    "autor": "Autor B",
+    "ejemplares": 3,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9786029140129",
+    "titulo": "Libro de F\u00edsica #8",
+    "autor": "Autor C",
+    "ejemplares": 10,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9785850225240",
+    "titulo": "Libro de F\u00edsica #9",
+    "autor": "Autor A",
+    "ejemplares": 6,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9781312096965",
+    "titulo": "Libro de F\u00edsica #10",
+    "autor": "Autor C",
+    "ejemplares": 7,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9783950871045",
+    "titulo": "Libro de F\u00edsica #11",
+    "autor": "Autor A",
+    "ejemplares": 11,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9785801370812",
+    "titulo": "Libro de F\u00edsica #12",
+    "autor": "Autor B",
+    "ejemplares": 3,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9781833393159",
+    "titulo": "Libro de F\u00edsica #13",
+    "autor": "Autor A",
+    "ejemplares": 5,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9785681842003",
+    "titulo": "Libro de F\u00edsica #14",
+    "autor": "Autor B",
+    "ejemplares": 4,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9783511652085",
+    "titulo": "Libro de F\u00edsica #15",
+    "autor": "Autor B",
+    "ejemplares": 9,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9788764573157",
+    "titulo": "Libro de F\u00edsica #16",
+    "autor": "Autor A",
+    "ejemplares": 6,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9782411764345",
+    "titulo": "Libro de F\u00edsica #17",
+    "autor": "Autor B",
+    "ejemplares": 5,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9788381939811",
+    "titulo": "Libro de F\u00edsica #18",
+    "autor": "Autor A",
+    "ejemplares": 9,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9787632529673",
+    "titulo": "Libro de F\u00edsica #19",
+    "autor": "Autor C",
+    "ejemplares": 9,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9782414046188",
+    "titulo": "Libro de F\u00edsica #20",
+    "autor": "Autor B",
+    "ejemplares": 3,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9785286721584",
+    "titulo": "Libro de F\u00edsica #21",
+    "autor": "Autor B",
+    "ejemplares": 4,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9785336677587",
+    "titulo": "Libro de F\u00edsica #22",
+    "autor": "Autor A",
+    "ejemplares": 9,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9788450991428",
+    "titulo": "Libro de F\u00edsica #23",
+    "autor": "Autor B",
+    "ejemplares": 11,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9782498817389",
+    "titulo": "Libro de F\u00edsica #24",
+    "autor": "Autor B",
+    "ejemplares": 11,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9783325562616",
+    "titulo": "Libro de F\u00edsica #25",
+    "autor": "Autor B",
+    "ejemplares": 9,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9787282858048",
+    "titulo": "Libro de F\u00edsica #26",
+    "autor": "Autor C",
+    "ejemplares": 5,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9786413439584",
+    "titulo": "Libro de F\u00edsica #27",
+    "autor": "Autor B",
+    "ejemplares": 14,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9785963896353",
+    "titulo": "Libro de F\u00edsica #28",
+    "autor": "Autor C",
+    "ejemplares": 2,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9786546220262",
+    "titulo": "Libro de F\u00edsica #29",
+    "autor": "Autor A",
+    "ejemplares": 13,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9784922268562",
+    "titulo": "Libro de F\u00edsica #30",
+    "autor": "Autor B",
+    "ejemplares": 13,
+    "genero": "F\u00edsica"
+  },
+  {
+    "ISBN": "9783826414631",
+    "titulo": "Libro de Actuaria #1",
+    "autor": "Autor A",
+    "ejemplares": 11,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9782595188891",
+    "titulo": "Libro de Actuaria #2",
+    "autor": "Autor A",
+    "ejemplares": 10,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9784510315786",
+    "titulo": "Libro de Actuaria #3",
+    "autor": "Autor B",
+    "ejemplares": 11,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9783822266680",
+    "titulo": "Libro de Actuaria #4",
+    "autor": "Autor C",
+    "ejemplares": 8,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9787953697161",
+    "titulo": "Libro de Actuaria #5",
+    "autor": "Autor B",
+    "ejemplares": 6,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9784484281074",
+    "titulo": "Libro de Actuaria #6",
+    "autor": "Autor A",
+    "ejemplares": 1,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9788550202195",
+    "titulo": "Libro de Actuaria #7",
+    "autor": "Autor C",
+    "ejemplares": 9,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9785099663633",
+    "titulo": "Libro de Actuaria #8",
+    "autor": "Autor A",
+    "ejemplares": 7,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9783156863547",
+    "titulo": "Libro de Actuaria #9",
+    "autor": "Autor C",
+    "ejemplares": 9,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9789064898075",
+    "titulo": "Libro de Actuaria #10",
+    "autor": "Autor B",
+    "ejemplares": 9,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9785547834013",
+    "titulo": "Libro de Actuaria #11",
+    "autor": "Autor C",
+    "ejemplares": 3,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9784990808538",
+    "titulo": "Libro de Actuaria #12",
+    "autor": "Autor C",
+    "ejemplares": 3,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9781267351978",
+    "titulo": "Libro de Actuaria #13",
+    "autor": "Autor C",
+    "ejemplares": 15,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9787108588222",
+    "titulo": "Libro de Actuaria #14",
+    "autor": "Autor B",
+    "ejemplares": 8,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9783016006034",
+    "titulo": "Libro de Actuaria #15",
+    "autor": "Autor B",
+    "ejemplares": 14,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9788843882657",
+    "titulo": "Libro de Actuaria #16",
+    "autor": "Autor C",
+    "ejemplares": 13,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9783998610650",
+    "titulo": "Libro de Actuaria #17",
+    "autor": "Autor A",
+    "ejemplares": 8,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9788082130216",
+    "titulo": "Libro de Actuaria #18",
+    "autor": "Autor B",
+    "ejemplares": 1,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9784919156464",
+    "titulo": "Libro de Actuaria #19",
+    "autor": "Autor C",
+    "ejemplares": 5,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9785947180188",
+    "titulo": "Libro de Actuaria #20",
+    "autor": "Autor C",
+    "ejemplares": 14,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9789520391331",
+    "titulo": "Libro de Actuaria #21",
+    "autor": "Autor A",
+    "ejemplares": 7,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9788865212285",
+    "titulo": "Libro de Actuaria #22",
+    "autor": "Autor C",
+    "ejemplares": 6,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9788719545605",
+    "titulo": "Libro de Actuaria #23",
+    "autor": "Autor C",
+    "ejemplares": 3,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9783145480408",
+    "titulo": "Libro de Actuaria #24",
+    "autor": "Autor B",
+    "ejemplares": 11,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9781659601009",
+    "titulo": "Libro de Actuaria #25",
+    "autor": "Autor C",
+    "ejemplares": 2,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9781716501922",
+    "titulo": "Libro de Actuaria #26",
+    "autor": "Autor A",
+    "ejemplares": 10,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9781707453987",
+    "titulo": "Libro de Actuaria #27",
+    "autor": "Autor A",
+    "ejemplares": 2,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9781033252507",
+    "titulo": "Libro de Actuaria #28",
+    "autor": "Autor A",
+    "ejemplares": 11,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9783874287832",
+    "titulo": "Libro de Actuaria #29",
+    "autor": "Autor C",
+    "ejemplares": 3,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9781836139280",
+    "titulo": "Libro de Actuaria #30",
+    "autor": "Autor C",
+    "ejemplares": 13,
+    "genero": "Actuaria"
+  },
+  {
+    "ISBN": "9781158872141",
+    "titulo": "Libro de Literatura #1",
+    "autor": "Autor B",
+    "ejemplares": 5,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9788521448632",
+    "titulo": "Libro de Literatura #2",
+    "autor": "Autor B",
+    "ejemplares": 1,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9781740384269",
+    "titulo": "Libro de Literatura #3",
+    "autor": "Autor C",
+    "ejemplares": 12,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9788483011960",
+    "titulo": "Libro de Literatura #4",
+    "autor": "Autor C",
+    "ejemplares": 15,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9784219710495",
+    "titulo": "Libro de Literatura #5",
+    "autor": "Autor C",
+    "ejemplares": 2,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9789372273319",
+    "titulo": "Libro de Literatura #6",
+    "autor": "Autor C",
+    "ejemplares": 2,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9783495473015",
+    "titulo": "Libro de Literatura #7",
+    "autor": "Autor B",
+    "ejemplares": 14,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9784186167528",
+    "titulo": "Libro de Literatura #8",
+    "autor": "Autor C",
+    "ejemplares": 6,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9786878729035",
+    "titulo": "Libro de Literatura #9",
+    "autor": "Autor A",
+    "ejemplares": 4,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9786207272377",
+    "titulo": "Libro de Literatura #10",
+    "autor": "Autor C",
+    "ejemplares": 13,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9786640940805",
+    "titulo": "Libro de Literatura #11",
+    "autor": "Autor C",
+    "ejemplares": 5,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9782459968021",
+    "titulo": "Libro de Literatura #12",
+    "autor": "Autor A",
+    "ejemplares": 2,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9783412965848",
+    "titulo": "Libro de Literatura #13",
+    "autor": "Autor B",
+    "ejemplares": 3,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9789092477684",
+    "titulo": "Libro de Literatura #14",
+    "autor": "Autor B",
+    "ejemplares": 3,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9787856344649",
+    "titulo": "Libro de Literatura #15",
+    "autor": "Autor B",
+    "ejemplares": 8,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9785165913748",
+    "titulo": "Libro de Literatura #16",
+    "autor": "Autor B",
+    "ejemplares": 13,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9786727578616",
+    "titulo": "Libro de Literatura #17",
+    "autor": "Autor A",
+    "ejemplares": 2,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9781531382091",
+    "titulo": "Libro de Literatura #18",
+    "autor": "Autor C",
+    "ejemplares": 1,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9782253131790",
+    "titulo": "Libro de Literatura #19",
+    "autor": "Autor A",
+    "ejemplares": 9,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9786473543453",
+    "titulo": "Libro de Literatura #20",
+    "autor": "Autor A",
+    "ejemplares": 8,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9781451535100",
+    "titulo": "Libro de Literatura #21",
+    "autor": "Autor B",
+    "ejemplares": 4,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9788846375408",
+    "titulo": "Libro de Literatura #22",
+    "autor": "Autor C",
+    "ejemplares": 13,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9787484354631",
+    "titulo": "Libro de Literatura #23",
+    "autor": "Autor A",
+    "ejemplares": 13,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9782127427558",
+    "titulo": "Libro de Literatura #24",
+    "autor": "Autor A",
+    "ejemplares": 12,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9788055498090",
+    "titulo": "Libro de Literatura #25",
+    "autor": "Autor A",
+    "ejemplares": 10,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9787659678640",
+    "titulo": "Libro de Literatura #26",
+    "autor": "Autor C",
+    "ejemplares": 12,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9788252608297",
+    "titulo": "Libro de Literatura #27",
+    "autor": "Autor C",
+    "ejemplares": 2,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9788265451925",
+    "titulo": "Libro de Literatura #28",
+    "autor": "Autor A",
+    "ejemplares": 3,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9789260376187",
+    "titulo": "Libro de Literatura #29",
+    "autor": "Autor A",
+    "ejemplares": 6,
+    "genero": "Literatura"
+  },
+  {
+    "ISBN": "9786447571520",
+    "titulo": "Libro de Literatura #30",
+    "autor": "Autor C",
+    "ejemplares": 13,
+    "genero": "Literatura"
+  }
+]
