@@ -1,3 +1,17 @@
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
+import.java.util.ArrayList;
+import.java.List;
 
+//**Representa un usuario de la biblioteca
+*
+*
+*
+*/
+public class Usuario{
+       private String id;
+       private String nombre;
+       private String carrera;
+       private List<Prestamo> prestamos;
+       private LocalDate fechaFinPenalizacion;
+       private String motivoPenalizacion;
