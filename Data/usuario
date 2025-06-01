@@ -134,5 +134,22 @@ public class Usuario{
             /**
              * @return Verifica si el usuario puede realizar prestamos
              * @return true si puede hacer prestamos 
+             */
+            public boolean puedePrestar() {
+                return !tienePenalizacion();
+            }
 
+            /**
+            * @return Historial completo de penalizaciones
+            */
+            public List<String> getHistorialPenalizaciones() {
+                  return new ArrayList<>(historialPenalizaciones);
+            }
+
+            /**
+            * @return Informacion detallada del usuario incluyendo estado de penalizacion
+            */
+            @Override
+            public String toString() {
+                  String estado = puedePrestar() ? "Habilitado para prestamos": "Penalizado hasta" + fechaFinPenalizacion
 
