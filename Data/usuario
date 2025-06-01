@@ -151,5 +151,9 @@ public class Usuario{
             */
             @Override
             public String toString() {
-                  String estado = puedePrestar() ? "Habilitado para prestamos": "Penalizado hasta" + fechaFinPenalizacion
+                  String estado = puedePrestar() ? "Habilitado para prestamos": "Penalizado hasta" + fechaFinPenalizacion + "(" + diasPenalizacionRestantes() +"dias restantes)";
+
+                return "Usuario: " + nombre + "\nID: " + id + "\nCarrera: " + carrera + "\nEstado: " + estado + "\nPrestamos activos: " + prestamos.size();
+            }
+}
 
