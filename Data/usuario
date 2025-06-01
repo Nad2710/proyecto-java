@@ -116,6 +116,9 @@ public class Usuario{
            /**
             * Elimina la penalizacion del usuario
             */
-           public void quitar
+           public void quitarPenalizacion() {
+                this.fechaFinPenalizacion = null;
+                this.motivoPenalizacion = null;
+                this.
 
 
