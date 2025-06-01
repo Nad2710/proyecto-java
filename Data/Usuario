@@ -113,6 +113,9 @@ public class Usuario{
                 this.motivoPenalizacion = motivo;
                 this.historialPenalizaciones.add("Penalizado el " + LocalDate.now() + "por" + dias + "dias.Motivo: " + motivo);
            }
-
+           /**
+            * Elimina la penalizacion del usuario
+            */
+           public void quitar
 
 
