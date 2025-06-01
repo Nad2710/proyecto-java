@@ -42,8 +42,54 @@ public class Usuario{
        public String getNombre() {
               return nombre;
        }
-       /** @return Carrera del usuario
+       /** 
+       * @return Carrera del usuario
        */
        public String getCarrera() {
               return carrera;
        }
+
+       //Metodos de prestamo
+       /*
+        * Agrega un nuevo prestamo al usuario si no esta penalizado
+        * @param prestamos Objeto de tipo Prestamo
+        */
+       public void agregarPrestamo (Prestamo prestamo) {
+              if (!puedePrestar()) {
+              System.out.println("Usuario penalizado. No puede realizar prestamos hasta: " + fechaFinPenalizacion + ". Motivo: " + motivoPenalizacion);
+              return;
+       }
+       prestamos.add(prestamo);
+      }
+      /**
+        * @return Lista de todos los prestamos activos del usuario
+        */
+      public List<Prestamos> obtenerPrestamos() {
+           return new ArrayList<>(prestamos);
+      }
+       /**
+       * Muestra en consola todos los prestamos activos del usuario
+       */
+      public void mostrarPrestamos() {
+           System.out.println("Prestamos del usuario" + nombre +":");
+           for (Prestamo p : prestamos) {
+               System.out.println("-" + p.getLibro().getTitulo() + " (Fecha de devolucion: " + p.getFechaDevolucion() + ")";
+           }
+      }
+
+           /**
+            * Busca si el usuario tiene un prestamo de un libro con un ISBN dado
+            * @param isbn ISBN del libro a buscar
+            * @return true si ese prestamo existe 
+            */
+           public boolean tienePrestamo (String isbn) {
+                for (Prestamo p : prestamos) {
+                     if (p.getLibro().getIsbn().equals(isbn)) {
+                         return true;
+                     }
+                }
+                return false;
+           }
+
+           // Metodos de penalizacion
+
