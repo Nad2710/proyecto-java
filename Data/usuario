@@ -119,6 +119,20 @@ public class Usuario{
            public void quitarPenalizacion() {
                 this.fechaFinPenalizacion = null;
                 this.motivoPenalizacion = null;
-                this.
+           }
+
+           /** 
+           * @return Dias restantes de penalizacion 
+           */
+           public long diasPenalizacionRestantes() {
+                if(!tienepenalizacion()) {
+                   return 0;
+                }
+                return.ChronoUnit.DAYS.between(LocalDate.now(), fechaFinPenalizacion);
+            }
+
+            /**
+             * @return Verifica si el usuario puede realizar prestamos
+             * @return true si puede hacer prestamos 
 
 
