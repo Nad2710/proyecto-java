@@ -92,4 +92,27 @@ public class Usuario{
            }
 
            // Metodos de penalizacion
+           /**
+            * Verifica si el usuario tiene una penalizacion activa
+            * @return true si el prestamo existe
+            */
+           public boolean tienePenalizacion() {
+                if (fechaFinPenalizacion == null) {
+                    return false;
+                }
+                return LocalDate.now().isBefore(fechaFinPenalizacion);
+           }
+
+           /**
+            * Agrega una penalizacion al usuario
+            * @param dias Numero de dias de penalizacion
+            * @param motivo Razon de la penalizacion 
+            */
+           public void agregarPenalizacion(int dias, String motivo) {
+                this.fechaFinPenalizacion = LocalDate.now().plusDays(dias);
+                this.motivoPenalizacion = motivo;
+                this.historialPenalizaciones.add("Penalizado el " + LocalDate.now() + "por" + dias + "dias.Motivo: " + motivo);
+           }
+
+
 
