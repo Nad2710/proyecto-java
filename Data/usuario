@@ -98,9 +98,8 @@ public class Usuario{
                 this.motivoPenalizacion = null;
            }
 
-           /** 
-           * @return Dias restantes de penalizacion 
-           */
+           // Dias restantes de penalizacion 
+
            public long diasPenalizacionRestantes() {
                 if(!tienepenalizacion()) {
                    return 0;
