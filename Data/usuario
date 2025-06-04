@@ -81,7 +81,6 @@ public class Usuario{
                 return LocalDate.now().isBefore(fechaFinPenalizacion);
            }
 
-           /**
            // Agrega una penalizacion al usuario
            // Numero de dias de penalizacion
            // Razon de la penalizacion 
@@ -115,7 +114,7 @@ public class Usuario{
             }
 
             // regresa Historial completo de penalizaciones
-            */
+
             public List<String> getHistorialPenalizaciones() {
                   return new ArrayList<>(historialPenalizaciones);
             }
