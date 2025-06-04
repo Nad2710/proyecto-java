@@ -37,10 +37,7 @@ public class Usuario{
        }
 
        //Metodos de prestamo
-       /*
-        * Agrega un nuevo prestamo al usuario si no esta penalizado
-        * @param prestamos Objeto de tipo Prestamo
-        */
+       // Agrega un prestamo si el usuario no esta penalizado
        public void agregarPrestamo (Prestamo prestamo) {
               if (!puedePrestar()) {
               System.out.println("Usuario penalizado. No puede realizar prestamos hasta: " + fechaFinPenalizacion + ". Motivo: " + motivoPenalizacion);
@@ -48,15 +45,11 @@ public class Usuario{
        }
        prestamos.add(prestamo);
       }
-      /**
-        * @return Lista de todos los prestamos activos del usuario
-        */
+      //Da una lista de todos los prestamos del usuario
       public List<Prestamos> obtenerPrestamos() {
            return new ArrayList<>(prestamos);
       }
-       /**
-       * Muestra en consola todos los prestamos activos del usuario
-       */
+      // Muestra los prestamos activos del usuario
       public void mostrarPrestamos() {
            System.out.println("Prestamos del usuario" + nombre +":");
            for (Prestamo p : prestamos) {
@@ -64,11 +57,10 @@ public class Usuario{
            }
       }
 
-           /**
-            * Busca si el usuario tiene un prestamo de un libro con un ISBN dado
-            * @param isbn ISBN del libro a buscar
-            * @return true si ese prestamo existe 
-            */
+           // Busca si el usuario tiene un prestamo de un libro con un ISBN dado
+           // ISBN del libro a buscar
+           // Regresa true si el prestamo existe 
+       
            public boolean tienePrestamo (String isbn) {
                 for (Prestamo p : prestamos) {
                      if (p.getLibro().getIsbn().equals(isbn)) {
@@ -79,10 +71,9 @@ public class Usuario{
            }
 
            // Metodos de penalizacion
-           /**
-            * Verifica si el usuario tiene una penalizacion activa
-            * @return true si el prestamo existe
-            */
+           // Verifica si el usuario tiene una penalizacion activa
+           // Regresa true si el prestamo existe
+
            public boolean tienePenalizacion() {
                 if (fechaFinPenalizacion == null) {
                     return false;
