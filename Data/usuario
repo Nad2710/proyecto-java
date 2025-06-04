@@ -82,18 +82,17 @@ public class Usuario{
            }
 
            /**
-            * Agrega una penalizacion al usuario
-            * @param dias Numero de dias de penalizacion
-            * @param motivo Razon de la penalizacion 
-            */
+           // Agrega una penalizacion al usuario
+           // Numero de dias de penalizacion
+           // Razon de la penalizacion 
+       
            public void agregarPenalizacion(int dias, String motivo) {
                 this.fechaFinPenalizacion = LocalDate.now().plusDays(dias);
                 this.motivoPenalizacion = motivo;
                 this.historialPenalizaciones.add("Penalizado el " + LocalDate.now() + "por" + dias + "dias.Motivo: " + motivo);
            }
-           /**
-            * Elimina la penalizacion del usuario
-            */
+           // Elimina la penalizacion del usuario
+
            public void quitarPenalizacion() {
                 this.fechaFinPenalizacion = null;
                 this.motivoPenalizacion = null;
@@ -109,29 +108,24 @@ public class Usuario{
                 return.ChronoUnit.DAYS.between(LocalDate.now(), fechaFinPenalizacion);
             }
 
-            /**
-             * @return Verifica si el usuario puede realizar prestamos
-             * @return true si puede hacer prestamos 
-             */
+            // Verifica si el usuario puede realizar prestamos
+            // Regresa true si puede hacer prestamos 
+
             public boolean puedePrestar() {
                 return !tienePenalizacion();
             }
 
-            /**
-            * @return Historial completo de penalizaciones
+            // regresa Historial completo de penalizaciones
             */
             public List<String> getHistorialPenalizaciones() {
                   return new ArrayList<>(historialPenalizaciones);
             }
 
-            /**
-            * @return Informacion detallada del usuario incluyendo estado de penalizacion
-            */
-            @Override
+            // regresa Informacion detallada del usuario incluyendo estado de penalizacion
+       
             public String toString() {
                   String estado = puedePrestar() ? "Habilitado para prestamos": "Penalizado hasta" + fechaFinPenalizacion + "(" + diasPenalizacionRestantes() +"dias restantes)";
 
                 return "Usuario: " + nombre + "\nID: " + id + "\nCarrera: " + carrera + "\nEstado: " + estado + "\nPrestamos activos: " + prestamos.size();
             }
 }
-
