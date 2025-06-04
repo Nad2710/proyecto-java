@@ -3,11 +3,7 @@ import java.time.temporal.ChronoUnit;
 import.java.util.ArrayList;
 import.java.List;
 
-//**Representa un usuario de la biblioteca
-*
-*
-*
-*/
+//Representa un usuario de la biblioteca
 public class Usuario{
        private String id;
        private String nombre;
@@ -17,13 +13,8 @@ public class Usuario{
        private String motivoPenalizacion;
        private List<String> historialPenalizaciones; //Historial de Penalizaciones
 
-       /**
-       Crea un nuevo usuario con identificador, nombre y carrera
-       *
-       * @param id Identificador unico del usuario.
-       * @param nombre Nombre completo del usuario.
-       * @param carrera Carrera del usuario.
-       /*
+       // Crea un nuevo usuario con identificador, nombre y carrera
+
        public Usuario(String id, String nombre, String carrera){
               this.id = id;
               this.nombre = nombre;
@@ -32,19 +23,15 @@ public class Usuario{
               this.historialPenalizaciones = new ArrayList<>();
        }
 
-       /** @return ID del usuario
-       */
+       // Regresa el ID (numero de cuenta) del usuario
        public String getId() {
               return id;
        }
-       /** @return nombre del usuario
-       */
+       // Regresa el nombre del usuario 
        public String getNombre() {
               return nombre;
        }
-       /** 
-       * @return Carrera del usuario
-       */
+       // Regresa la carrera del usuario
        public String getCarrera() {
               return carrera;
        }
